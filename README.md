@@ -1,6 +1,6 @@
 # Weather-Dashboard
 
-**URL**
+**URL** https://watssupp.github.io/Weather-App/
 
 ## Description
 Weather application that allows users t get current / 5 day forcast. Saves previously looked up searches local storage
