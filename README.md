@@ -1,4 +1,4 @@
-# Weather-Dashboard
+# Weather-App
 
 **URL** https://watssupp.github.io/Weather-App/
 
