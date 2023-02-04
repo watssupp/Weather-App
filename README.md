@@ -15,3 +15,7 @@ Weather application that allows users t get current / 5 day forcast. Saves previ
 
 ## Screen Shot
 ![Alt text](./Weather-App.PNG)
+
+## Technologies Use
+<p><a href="https://openweathermap.org/">OpenWeather API</a></p>
+<p><a href="https://getbootstrap.com/">Bootstrap</a></p>
